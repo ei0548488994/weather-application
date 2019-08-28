@@ -1,0 +1,170 @@
+@media only screen and (min-width: 680px) and (max-width: 840px) {
+    body{
+    .container{
+    .weather_wrapper{
+    .search_city {
+    .search{
+    .searchButton{
+    i{
+        font-size:15px;
+    }
+}
+}
+}
+.days_panel{
+
+.days_wrapper {
+    height: 200px;
+    width: 100%;
+.day_section{
+    width: 150px;
+.details_wrapper{
+.icon_wrapper{
+i{
+    font-size:43px;
+}
+}
+.degrees_celsius{
+    font-size:28px;
+}
+}
+&:first-child{
+.today_wrapper{
+.city{
+    font-size:21px;
+}
+}
+.today_description{
+.degrees_celsius{
+    font-size: 40px;
+}}
+.description{
+    font-size: 28px;
+}
+}
+}
+}
+}
+}
+}
+}
+}
+
+@media only screen and (min-width: 540px) and (max-width: 680px) {
+    body{
+    .container{
+    .weather_wrapper{
+    .search_city {
+    .search{
+    .searchButton{
+    i{
+        font-size:15px;
+    }
+}
+}
+}
+.days_panel{
+.days_wrapper {
+    height: 130px;
+    width: 100%;
+.day_section{
+    width: 130px;
+.details_wrapper{
+.icon_wrapper{
+i{
+    font-size:27px;
+}}
+.degrees_celsius{
+    font-size:24px;
+}
+}
+&:first-child{
+.today_wrapper{
+.city{
+    font-size:17px;
+}}
+.today_description{
+.degrees_celsius{
+    font-size: 30px;
+}}
+.description{
+    font-size: 22px;
+}
+}
+}
+}
+}
+}
+}
+}
+}
+@media only screen and (min-width: 240px) and (max-width: 540px) {
+    body{
+    .container{
+    .weather_wrapper{
+        height: 700px;
+    .search_wrapper {
+        width: 100%;
+        margin-top: 25px;
+        display:flex;
+        align-items:center;
+        justify-content: center;
+    .search_city {
+        position:unset;
+        width:200px;
+        display:flex;
+    .search{
+    .searchButton{
+    i{
+        font-size:15px;
+    }
+}
+}
+}
+}
+.days_panel{
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    flex-direction: column-reverse;
+    margin-top:15px;
+.days_wrapper {
+    display:flex;
+    flex-direction: column;
+    height: 100% ;
+    align-items: center;
+.day_section{
+    width: 130px;
+    margin-bottom: 10px;
+.details_wrapper{
+.icon_wrapper{
+i{
+    margin-top:2px;
+    font-size:25px;
+}
+}
+.degrees_celsius{
+    font-size:24px;
+}
+}
+&:first-child{
+.today_wrapper{
+.city{
+    font-size:17px;
+}}
+.today_description{
+.degrees_celsius{
+    font-size: 30px;
+}
+}
+.description{
+    font-size: 25px;
+}
+}
+}
+}
+}
+}
+}
+}
+}
